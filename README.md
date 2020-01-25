@@ -12,9 +12,9 @@
 
 
 
-![1](./readmeImgs/1.png)
-![1](./readmeImgs/2.png)
-![1](./readmeImgs/3.png)
-![1](./readmeImgs/4.png)
+![1](readmeImgs/1.png)
+![1](readmeImgs/2.png)
+![1](readmeImgs/3.png)
+![1](readmeImgs/4.png)
 
 
