@@ -12,9 +12,10 @@
 
 
 
-![1](/readmeImgs/1.png)
-![1](/readmeImgs/2.png)
-![1](/readmeImgs/3.png)
-![1](/readmeImgs/4.png)
+![1](https://github.com/wffanstorm/WfGoClient/blob/master/readmeImgs/1.png)
+![1](https://github.com/wffanstorm/WfGoClient/blob/master/readmeImgs/2.png)
+![1](https://github.com/wffanstorm/WfGoClient/blob/master/readmeImgs/3.png)
+![1](https://github.com/wffanstorm/WfGoClient/blob/master/readmeImgs/4.png)
+
 
 
