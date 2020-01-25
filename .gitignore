@@ -1,0 +1,8 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/wfGoClient
+/packages/Newtonsoft.Json.10.0.2
+/wfGoClient/bin/Debug
+/wfGoClient/obj/Debug

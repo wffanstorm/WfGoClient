@@ -1,0 +1,8 @@
+(;SZ[19]AP[MultiGo:3.6.0]GN[围棋死活词典 ]C[白先活（中级）]
+AW[br][cq][dq][dp][er][fr][eo][ir][iq][ip][kp]AB[ar][bq][bo][cp][do][dn][fn][ep][fp][hp][hn][io][hr][gr]
+;W[gp](;B[go]	;W[fs]	;B[cr]	;W[dr]	;B[bs]	;W[hs]	;B[gq]	;W[gs]()
+()
+)
+(;B[gq]	;W[go]	;B[fq]	;W[fo]	;B[ho]	;W[fs]	;B[cr]	;W[dr]	;B[bs]	;W[hs]
+;B[hq]	;W[gs])
+)
