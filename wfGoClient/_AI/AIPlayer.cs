@@ -499,7 +499,7 @@ namespace wfGoClient
             Point p=ChooseMaxLibertyChang(m, pointlist);
 
             SetPiece(p.X, p.Y);
-            MessageBox.Show("Chang");
+            //MessageBox.Show("Chang");
             return true;
         }
         private void Chang_DeepSearch(Matrix m,int x,int y,bool[,] visited,List<Point> pointlist)
@@ -624,12 +624,12 @@ namespace wfGoClient
             DataNode node = new DataNode(mm);
             Point point = ann.ANNGO(node);
 
-            MessageBox.Show(point.X.ToString() + " " + point.Y.ToString());
+            //MessageBox.Show(point.X.ToString() + " " + point.Y.ToString());
 
             //落子
             if(!SetPiece(point.X, point.Y))
             {
-                MessageBox.Show("failed");
+                //MessageBox.Show("failed");
                 AIGoMethod_3();
             }
             TurnEnd();
